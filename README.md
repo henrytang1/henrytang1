@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+I'm Henry Tang, a junior majoring in Computer Science at Princeton University.
+
+I'm currently working as a software engineer intern within the Chief Technology Office team at Motorola Solutions.
+
+<hr />
+
+#### Skills
+Natural Language Processing, Computer Vision, Reinforcement Learning, Quantum Computing, Data Structures, Graph Algorithms, Linear Algebra, Multivariable Calculus, Probability Theory
+
+#### Languages
+Python, C++, Javascript, Java, HTML, CSS, Golang, C, ARM, Swift, LaTeX, MATLAB, Mathematica, SQL
+
+#### Frameworks
+PyTorch, React, Angular, Qiskit, Flask
+
 <!--
 **henrytang1/henrytang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
