@@ -10,7 +10,7 @@ I'm currently working as a software engineer intern within the Chief Technology 
 Natural Language Processing, Computer Vision, Reinforcement Learning, Quantum Computing, Data Structures, Graph Algorithms, Linear Algebra, Multivariable Calculus, Probability Theory
 
 #### Languages
-Python, C++, Javascript, Java, HTML, CSS, Golang, C, ARM, Swift, LaTeX, MATLAB, Mathematica, SQL
+Python, C++, Javascript, Java, HTML, CSS, Go, C, ARM, Swift, LaTeX, MATLAB, Mathematica, SQL
 
 #### Frameworks
 PyTorch, React, Angular, Qiskit, Flask
