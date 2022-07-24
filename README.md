@@ -2,7 +2,7 @@
 
 I'm Henry Tang, a junior majoring in Computer Science at Princeton University.
 
-I'm currently working as a software engineer intern within the Chief Technology Office team at Motorola Solutions.
+I'm currently working as a software engineer intern at Citadel Securities.
 
 <hr />
 
