@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Henry Tang. I'm pursuing a Bachelor of Science in Engineering in Computer Science at Princeton University.
+I'm Henry Tang, a Princeton University alumni with a degree in Computer Science.
 
 Special thanks to [Ava Pun](https://github.com/avalovelace1) for the profile picture!
 
